@@ -1,2 +1,3 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
-Changing the alice file once again. 
+Changing the alice file once again
+Making another change to this file.
